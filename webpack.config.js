@@ -2,9 +2,9 @@ const path = require("path");
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 
 module.exports = {
-  entry: "./src/goal_manager.js",
+  entry: "./src/script.js",
   output: {
-    filename: "goal_manager.js",
+    filename: "script.js",
     path: path.resolve(__dirname, "js")
   },
   module: {

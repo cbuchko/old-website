@@ -18,6 +18,11 @@ body {
 
 .main-content {
     margin: 10px;
+    margin-bottom: 50%;
+}
+
+.about-me{
+    /* margin-bottom: 300px; */
 }
 
 /** Navigational styling */
