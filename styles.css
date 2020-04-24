@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: rgb(218, 204, 204);
+}
+
+.title {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.main-container{
+    margin-left: 20%;
+    margin-top: 100px;
+}
+
+.main-content {
+    margin: 10px;
+}
+
+/** Navigational styling */
+
+.down-arrow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: auto;
+}
+
+.down-scroll {
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-bottom: 10px;
+    position: fixed;
+    bottom: 0;
+}
