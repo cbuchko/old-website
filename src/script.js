@@ -8,8 +8,22 @@ class Scroller extends Component {
             scrollDistance: window.pageYOffset
         };
     }
-    componentDidUpdate() {
-        console.log("poop");
+
+    componentDidMount() {
+        this.timerID = setInterval(
+            () => this.tick(),
+            500
+        );       
+    }
+
+    componentWillUnmount() {
+        clearInterval(this.timerID)
+    }
+
+    tick() {
+        this.setState({
+            scrollDistance: window.pageYOffset
+        });
     }
 
     render() { 
@@ -24,12 +38,8 @@ class Scroller extends Component {
         }
 }
 
-function renderScroller(){
-    if(document.querySelector("#down-scroll") != null){
+if(document.querySelector("#down-scroll") != null){
         console.log("asdfasdfsd");
         let domContainer = document.querySelector("#down-scroll");
         ReactDOM.render(<Scroller />, domContainer);
-    }
 }
-  
-  setInterval(renderScroller, 250);
