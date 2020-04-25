@@ -35,7 +35,7 @@ body {
     width: auto;
 }
 
-.down-scroll {
+#down-scroll {
     margin-left: 50%;
     margin-right: 50%;
     margin-bottom: 10px;
