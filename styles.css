@@ -1,6 +1,10 @@
 body {
-    margin: 0;
+    margin: 1% 15% 0 15%;
     background-color: rgb(218, 204, 204);
+}
+
+.wrapper {
+    background-color: white;
 }
 
 .title {
@@ -13,12 +17,13 @@ body {
 
 .main-container{
     margin-left: 20%;
+    margin-right: 20%;
     margin-top: 100px;
 }
 
 .main-content {
     margin: 10px;
-    margin-bottom: 50%;
+    margin-bottom: 90%;
 }
 
 .about-me{
@@ -28,16 +33,15 @@ body {
 /** Navigational styling */
 
 .down-arrow {
-    display: block;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
     height: 50px;
     width: auto;
 }
 
 #down-scroll {
-    margin-left: 50%;
-    margin-right: 50%;
+    margin-left: 32.5%;
     margin-bottom: 10px;
     position: fixed;
     bottom: 0;

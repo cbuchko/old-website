@@ -12,7 +12,7 @@ class Scroller extends Component {
     componentDidMount() {
         this.timerID = setInterval(
             () => this.tick(),
-            500
+            300
         );       
     }
 
@@ -26,6 +26,7 @@ class Scroller extends Component {
         });
     }
 
+    //Only render the scroll arrow if you're at the top
     render() { 
         if(this.state.scrollDistance < 5){    
             return (
