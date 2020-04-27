@@ -15,19 +15,31 @@ body {
     margin: 0px;
 }
 
-.main-container{
-    margin-left: 20%;
-    margin-right: 20%;
+.basic-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-left: 5%;
+    margin-right: 0;
     margin-top: 100px;
 }
 
-.main-content {
+.welcome-message {
     margin: 10px;
     margin-bottom: 90%;
 }
 
-.about-me{
-    /* margin-bottom: 300px; */
+.container {
+    display: flex;
+
+}
+
+#nav-table {
+}
+
+.content-container{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 100px;
 }
 
 /** Navigational styling */
