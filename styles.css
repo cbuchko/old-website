@@ -25,15 +25,11 @@ body {
 
 .welcome-message {
     margin: 10px;
-    margin-bottom: 90%;
 }
 
 .container {
     display: flex;
 
-}
-
-#nav-table {
 }
 
 .content-container{
@@ -42,12 +38,34 @@ body {
     margin-top: 100px;
 }
 
+.white-space {
+    margin-bottom: 90%;
+}
+
 /** Navigational styling */
 
+#nav-table {
+    border-style: solid;
+    background-color: rgb(5, 113, 255);
+}
+
+#nav-table ul {
+    
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav-table li {
+    background-color: rgb(50, 138, 252);
+    padding: 3px 0px 3px 10px;
+    margin-bottom: 5px;
+}
+
+#nav-table a {
+    text-decoration: none;
+}
 .down-arrow {
-    /* display: block;
-    margin-left: auto;
-    margin-right: auto; */
     height: 50px;
     width: auto;
 }
