@@ -20,11 +20,11 @@ body {
     grid-template-columns: 3fr 1fr;
     margin-left: 5%;
     margin-right: 0;
-    margin-top: 100px;
 }
 
 .welcome-message {
     margin: 10px;
+    padding-top: 60px;
 }
 
 .container {
@@ -47,6 +47,7 @@ body {
 #nav-table {
     border-style: solid;
     background-color: rgb(5, 113, 255);
+    height: auto;
 }
 
 #nav-table ul {
@@ -58,6 +59,7 @@ body {
 
 #nav-table li {
     background-color: rgb(50, 138, 252);
+    font-size: 25px;
     padding: 3px 0px 3px 10px;
     margin-bottom: 5px;
 }
