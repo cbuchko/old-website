@@ -4,7 +4,7 @@ body {
 }
 
 .wrapper {
-    background-color: white;
+    background-color: rgb(181, 230, 238);
 }
 
 .title {
@@ -36,10 +36,12 @@ body {
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 100px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .white-space {
-    margin-bottom: 90%;
+    margin-bottom: 50%;
 }
 
 /** Navigational styling */
@@ -78,3 +80,9 @@ body {
     position: fixed;
     bottom: 0;
 }
+
+/** specific styling */
+
+#headshot {
+    border-radius: 100px;
+} 
