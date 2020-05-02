@@ -4,20 +4,29 @@
         <meta charset="UTF-8">
         <script type="text/javascript" src="js/script.js"></script>
         <title>Connor Buchko</title>
-        <link href="styles.css" rel="stylesheet" type="text/css" />
+        <link href="./styling/styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <div class="wrapper">
-            <nav>
-
-            </nav>
-            <header class="title">
-                <h1>Connor Buchko's Personal Website</h1>
-            </header>
-            <div class="basic-container">
+        <header class="title">
+            <h1>Connor Buchko's Personal Website</h1>
+        </header>       
+        <div class="basic-container">
+            <div class="column">
                 <div class="welcome-message">
                 Hello, welcome to my website where you can find out more about me and how much I irrationally obsess about things like Survivor and Community.
                 </div>
+                <div class="white-space"></div>
+                <div class="content-container">
+                    <a name="about-me"><h2>About Me:</h2></a>
+                    <div class="basic-container" style="grid-template-columns: 1fr 3fr; background-color:rgb(181, 230, 238);" >
+                        <img id="headshot" src="./images/headshot.jpg">
+                        <p style="padding-left: 30px;">I'm Connor Buchko, a third year software engineering student at the University of Victoria.</p>           
+                    </div>
+                </div>
+                <!-- <footer id="down-scroll">
+                </footer> -->
+            </div>
+            <div class="column">
                 <nav id="nav-table">
                     <ul>
                         <li>Home</li>
@@ -26,18 +35,7 @@
                         <li>Projects</li>
                     </ul>
                 </nav>
-            </div>
-            <div class="white-space"></div>
-            <div class="content-container">
-                <a name="about-me"><h2>About Me:</h2></a>
-                <div class="basic-container" style="grid-template-columns: 1fr 3fr;">
-                    <img id="headshot" src="./images/headshot.jpg">
-                    <p style="padding-left: 30px;">I'm Connor Buchko, a third year software engineering student at the University of Victoria.</p>           
-                </div>
-            </div>
-        
-            <footer id="down-scroll">
-            </footer>
+            </div>              
         </div>
         <script type="text/javascript" src="js/script.js"></script>
     </body>

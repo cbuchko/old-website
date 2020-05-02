@@ -18,8 +18,15 @@ body {
 .basic-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
-    margin-left: 5%;
     margin-right: 0;
+    background-color: rgb(218, 204, 204);
+    margin-left: 0px;
+    padding: 5px;
+}
+
+.column {
+    background-color: rgb(181, 230, 238);
+    margin: 5px;
 }
 
 .welcome-message {
