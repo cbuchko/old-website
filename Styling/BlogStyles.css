@@ -11,4 +11,23 @@
 
 h2 {
     padding-left: 40px;
+    margin-bottom: 5px;
 }
+
+/** Blog body styling */
+
+.blog-date {
+    margin-top: 5px;
+    padding-left: 40px;
+}
+
+.blog-image {
+    width: 70%;
+    height: auto;
+    margin-left: 15%
+}
+
+.blog-content {
+    margin-left: 10%;
+    margin-right: 10%;
+} 
