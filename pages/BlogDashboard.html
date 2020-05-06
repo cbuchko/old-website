@@ -3,13 +3,11 @@ layout: wrapper
 header: My Blog
 ---
 
-<link href="./../styling/styles.css" rel="stylesheet" type="text/css" />
-<link href="./../styling/BlogStyles.css" rel="stylesheet" type="text/css" />
 <div class="content-container">
     big bong sing along, your teams al gore cause your views are wrong
 </div> 
 <ul class = "featured-blog">
-    <li>{% include blog-entry.html %}</li>
-    <li>{% include blog-entry.html %}</li>
-    <li>{% include blog-entry.html %}</li>
+    {% for post in site.posts %}
+        <li>{% include blog-entry.html link=post.url title=post.title %}</li>
+    {% endfor %}
 </ul>
