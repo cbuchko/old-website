@@ -1,0 +1,33 @@
+---
+layout: default
+permalink: /home.html
+title: index
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Connor Buchko</title>
+    </head>
+    <body>
+        <header class="title">
+            <h1>{{ page.header }}</h1>
+        </header>
+        <div class="basic-container">
+            <div class="column">
+            {{ content }}
+            </div>
+            <div class="column">
+                <nav id="nav-table">
+                    <ul>
+                        <a href="./../index.html"><li>Home</li></a>
+                        <a href="./pages/BlogDashboard.html"><li>To the blog!</li></a>
+                        <li>Resume</li>
+                        <li>Projects</li>
+                    </ul>
+                </nav>
+            </div>              
+        </div>
+    </body>
+</html>

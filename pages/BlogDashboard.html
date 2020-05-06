@@ -1,39 +1,15 @@
 ---
-layout: default
+layout: wrapper
+header: My Blog
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <script type="text/javascript" src="js/script.js"></script>
-        <title>Connor Buchko</title>
-        <link href="./../Styling/styles.css" rel="stylesheet" type="text/css" />
-        <link href="./../Styling/BlogStyles.css" rel="stylesheet" type="text/css" />
-    </head>
-    <body>
-        <header class="title">
-            <h1>My Blog</h1>
-        </header>      
-        <div class="basic-container">
-            <div class="column">
-                <div class="content-container">
-                    big bong sing along, your teams al gore cause your views are wrong
-                </div> 
-                {% include blog-entry.html %}
-                {% include blog-entry.html %}
-                {% include blog-entry.html %}
-            </div>
-            <div class="column">
-                <nav id="nav-table">
-                    <ul>
-                        <a href="./../home.html"><li>Home</li></a>
-                        <li>To the blog!</li>
-                        <li>Resume</li>
-                        <li>Projects</li>
-                    </ul>
-                </nav>
-            </div>       
-        </div>
-    </body>
-</html>
+<link href="./../styling/styles.css" rel="stylesheet" type="text/css" />
+<link href="./../styling/BlogStyles.css" rel="stylesheet" type="text/css" />
+<div class="content-container">
+    big bong sing along, your teams al gore cause your views are wrong
+</div> 
+<ul class = "featured-blog">
+    <li>{% include blog-entry.html %}</li>
+    <li>{% include blog-entry.html %}</li>
+    <li>{% include blog-entry.html %}</li>
+</ul>
