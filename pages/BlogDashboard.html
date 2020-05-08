@@ -8,6 +8,6 @@ header: My Blog
 </div> 
 <ul class = "featured-blog">
     {% for post in site.posts %}
-        <li>{% include blog-entry.html link=post.url title=post.title excerpt=post.excerpt %}</li>
+        <li>{% include blog-entry.html link=post.url title=post.title excerpt=post.excerpt image=post.image publish_date=post.publish-date %}</li>
     {% endfor %}
 </ul>
