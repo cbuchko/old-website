@@ -51,5 +51,10 @@ h2 {
     padding-bottom: 35px;
     padding-top: 35px;
 
-    
+}
+
+.section-nav-image {
+    height: 100px;
+    width: auto;
+    border-radius: 50px;
 }
