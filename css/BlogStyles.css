@@ -53,6 +53,14 @@ h2 {
 
 }
 
+.section-nav {
+    background-color: rgb(156, 224, 233);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .section-nav-image {
     height: 100px;
     width: auto;
