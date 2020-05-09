@@ -33,7 +33,7 @@
 
 /** Blog body styling */
 
-h2 {
+.blog-title {
     font-size: 28px;
     padding-left: 40px;
     margin-bottom: 5px;
