@@ -76,6 +76,43 @@ body {
 #nav-table a {
     text-decoration: none;
 }
+
+/** cookie crumbs styling */
+
+.cookie-crumbs {
+    background-color: black;
+    margin: 0;
+    color: white;
+    padding: 10px 16px;
+    list-style: none;
+}
+
+.cookie-crumbs li {
+    display: inline;
+    font-size: 18px;
+  }
+  
+  /* Add a slash symbol (/) before/behind each list item */
+  .cookie-crumbs li+li:before {
+    padding: 8px;
+    color: white;
+    content: "/\00a0";
+  }
+
+  .cookie-crumbs a {
+      text-decoration: none;
+      color: white;
+  }
+
+  .cookie-crumbs a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.cookie-crumbs a:hover {
+    text-decoration: none;
+    color: rgb(182, 182, 182);
+}
 .down-arrow {
     height: 50px;
     width: auto;

@@ -3,10 +3,12 @@ layout: wrapper
 header: My Blog
 ---
 
+<ul class="cookie-crumbs">
+    <li><a href="/index.html">Home</a></li>
+    <li>Blog Dashboard</li>
+</ul>
 {% include section-nav.html %}
-<div class="content-container">
-    big bong sing along, your teams al gore cause your views are wrong
-</div> 
+<!-- <h2 class="blog-header"> Featured Blog Posts </h2>  -->
 <ul class = "featured-blog">
     {% for post in site.posts %}
         <li>{% include blog-entry.html link=post.url title=post.title excerpt=post.excerpt image=post.image publish_date=post.publish-date %}</li>
