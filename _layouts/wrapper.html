@@ -29,6 +29,15 @@ title: index
                         <li>Projects</li>
                     </ul>
                 </nav>
+                <h2 class="sidebar-header">Featured Blog Posts</h2>
+                {% for post in site.posts %}
+                    {% if post.featured == true %}
+                    <a href="{{ post.url }}">
+                        <img class="thumbnail" src="{{ post.image }}" />
+                        <p style="margin: 0px 7px; text-align: center;">{{ post.title }}</p>  
+                    </a>   
+                    {% endif %}              
+                {% endfor %}
             </div>              
         </div>
     </body>

@@ -51,6 +51,11 @@ body {
     margin-bottom: 50%;
 }
 
+
+.sidebar-header {
+    text-align: center;
+    margin-bottom: 0;
+}
 /** Navigational styling */
 
 #nav-table {
@@ -113,18 +118,13 @@ body {
     text-decoration: none;
     color: rgb(182, 182, 182);
 }
-.down-arrow {
-    height: 50px;
-    width: auto;
-}
 
-#down-scroll {
-    margin-left: 32.5%;
-    margin-bottom: 10px;
-    position: fixed;
-    bottom: 0;
+.thumbnail {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }
-
 /** specific styling */
 
 #headshot {

@@ -4,6 +4,7 @@ title: Analyzing the Winners at War Top Six
 image: /images/Survivor_Winners_at_War_logo.png
 publish-date: 2020-05-09
 section: survivor
+featured: true
 ---
 
 The new king or queen of Survivor will be crowned in a couple of days. As it stands,
