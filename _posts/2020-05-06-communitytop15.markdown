@@ -1,15 +1,15 @@
 ---
 layout: blog-post
-title: The Fifteen Best Episodes of Community
+title: The Ten Best Episodes of Community
 image: /images/Community.jpg
 publish-date: 2020-05-05
 section: community
 featured: true
 ---
 
-Community is a special sitcom in a similar vein of The Office, Parks and Recreation, and Brooklyn 99. It thrives off its amazing cast, clever writing, and unafraidness to go beyond what was expected from a typical TV show. This combination resulted in a show that produced countless episodes that I would consider to be some of the best TV ever made. Some of these episodes stand out because of their hilarity, others because of how out of the box the concepts are but the main thing I love about Community is the heart and wholesomeness at its center. Now I'm gonna try to do my best to list my fifteen favourite of these.
+Community is a special sitcom in a similar vein of The Office, Parks and Recreation, and Brooklyn 99. It thrives off its amazing cast, clever writing, and unafraidness to go beyond what was expected from a typical TV show. This combination resulted in a show that produced countless episodes that I would consider to be some of the best TV ever made. Some of these episodes stand out because of their hilarity, others because of how out of the box the concepts are but the main thing I love about Community is the heart and wholesomeness at its center. Now I'm gonna try to do my best to list my ten favourite of these.
 
-Before I get into it, let me preface this by saying that 80% of the shows episodes are episodes that I would gladly rewatch countless times and it's extremely hard to pigeonhole just fifteen.  But without further ado...
+Before I get into it, let me preface this by saying that 80% of the shows episodes are episodes that I would gladly rewatch countless times and it's extremely hard to pigeonhole just ten.  But without further ado...
 
 ## 10. Debate 109
 
@@ -23,7 +23,7 @@ This episode is the birth of the Jeff and Annie will they/won't they romance tha
 
 <img class="blog-image" src="/images/community_episodes/zombies.jpg" alt="Epidemiology" />
 
-Ironically, this Halloween episode is unforgettable. The episode wastes no time and starts off in the midsts of the Halloween party. 
+In contrast to Debate 109, Epidemiology is an episode where the writers thought "How batshit insane can we make this". The episode wastes no time and starts off in the midsts of the Halloween party. 
 
 ## 8. Regional Holiday Music
 
@@ -41,6 +41,8 @@ The craziness of the episode culminates with a very heartfelt moment in Troy and
 <img class="blog-image" src="/images/community_episodes/chicken.png" alt="Contemporary American Poultry" />
 
 On This first full fledge homage episode checks all of the boxes. 
+
+Talk about how well done Abed is and how they portray Autism. 
 
 ## 6. Studies in Modern Movement
 
@@ -76,7 +78,7 @@ Annie loses a pen and the entire episode is a conversation about the where about
 
 The writing team and the actors really shine through with this episode. There is no paintball game or zombie invasion to move the plot, instead airtight back and forth conversation provides constant laughs.
 
-The slow descent into insanity is done extremely well here. The different characters motivations and reasonings for putting up with the pen search ends up being weirdly believable. It isn't until the episode ends when you realize that 22 minutes went by and you just witnissed the most pure Community there is.
+The slow descent into insanity is done extremely well here. The different characters motivations and reasonings for putting up with the pen search ends up being weirdly believable. It isn't until the episode ends when you realize that 22 minutes went by and you just witnessed the most pure Community there is.
 
 ## 3. Conspiracy Theories and Interior Design
 
@@ -90,8 +92,25 @@ The prop gun fight is peak Community, and is a great example of how it isn't afr
 
 <img class="blog-image" src="/images/community_episodes/environmental_science.jpg" alt="environmental science" />
 
+The first time I watched Community it didn't click right away how special the show was. The writing was obviously hilarious and the plot lines were creative but something was missing.
 
+This episode was my eureka moment. It spends the entire episode building up three seperate plot lines, Pierce helping Shirley, Jeff helping Chang, and Troy and Abed learning to help each other. We see the struggles that come with these different scenarios and before the climax, all three of these groupings have a falling out.
+
+Then in my favourite scene of the entire show, we get a fantastical montage of everyone overcoming their different adversities and rejoining together to 
+
+No other show has made me as emotionally invested in the characters as Community has. It puts relatable, flawed characters through the wringer and then challenges them to recognize their flaws and utilize them 
+ 
 
 ## 1. Remedial Chaos Theory
 
 <img class="blog-image" src="/images/community_episodes/chaos_theory.jpg" alt="chaos theory" />
+
+My favourite episode of any television show ever is a treasure trove of blink and you miss it moments. 
+
+There are elements of many of my other favourite episodes in this one episode. Its a bottle episode (Cooperative Calligraphy), it utilizes an ingenious concept (Epidemiology, Contemporary American Poultry, Paintball), and there is important character development and heartfelt moments (Studies in Modern Movement, Environmental Science). 
+
+An amazing part of this episode is how much it rewards viewers who are paying attention. Every timeline serves a purpose to provide context on how the disaster in the darkest timeline happens. Pierce brings the Serbian rum and the Norweigan troll, Annie has a gun, Abed doesn't catch the boulder, Troy isn't around to stop Britta from smoking. Annie talks about appylying a tourniquet in one timeline and then when Pierce gets shot is shown to be completely useless. All of the forershadowing pays off in a glorious scene of pure chaos. 
+
+But the episode doesn't stop there. We get the Abed timeline where he leaves and everyones starts arguing with eachother, providing more support to the series long idea that Abed is the glue of the group. 
+
+Finally, the prime timeline, Jeff leaves and isn't there to put the "red light" on Brittas singing. It's a very wholesome moment that the act of allowing Britta to sing was enough to loosen up the group and it results in another group bonding moment that I love.
