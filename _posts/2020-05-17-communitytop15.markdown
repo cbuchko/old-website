@@ -2,7 +2,7 @@
 layout: blog-post
 title: The Ten Best Episodes of Community
 image: /images/Community.jpg
-publish-date: 2020-05-05
+publish-date: 2020-05-17
 section: community
 featured: true
 ---
