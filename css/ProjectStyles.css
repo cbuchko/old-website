@@ -1,0 +1,12 @@
+.project-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.project-image {
+    width: 90%;
+    height: auto;
+    margin-left: 15%;
+    padding-top: 10px;
+     
+}
