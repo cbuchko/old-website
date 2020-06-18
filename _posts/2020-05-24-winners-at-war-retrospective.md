@@ -4,7 +4,7 @@ title: Survivor Winners at War Retrospective
 image: /images/Survivor_Winners_at_War_logo.png
 publish-date: 2020-05-24
 section: survivor
-featured: true
+featured: false
 ---
 
 The superbowl season of survivor has come to a close all too soon and now it's time to take a look back. This season left me with some mixed feelings. On one hand, it had the best cast in the history of survivor. On the other hand, there are so many "what if" questions that left me wanting more.
