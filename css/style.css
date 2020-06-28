@@ -1,8 +1,12 @@
+a:visited {
+    color:black;
+}
 body {
     margin: 1% 15% 0 15%;
-    background-color: rgb(218, 204, 204);
+    background-color: rgb(224, 207, 207);
     font-size: 16px;
     font-family: 'Roboto';
+    margin-top: 0;
 }
 
 .wrapper {
@@ -22,7 +26,6 @@ body {
     grid-template-columns: 3fr 1fr;
     margin-right: 0;
     margin-left: 0px;
-    padding: 5px;
 }
 
 .basic-container{
@@ -34,7 +37,7 @@ body {
 
 .main-column {
     background-color: rgb(181, 230, 238);
-    margin: 5px;
+    margin: 20px 10px;
 }
 
 .column {
@@ -84,10 +87,15 @@ body {
 }
 
 #nav-table li {
-    background-color: rgb(50, 138, 252);
+    background-color: rgb(78, 155, 255);
     font-size: 25px;
+    font-weight: 550;
     padding: 3px 0px 3px 10px;
     margin-bottom: 5px;
+}
+
+#nav-table li:hover {
+    background-color: rgb(50, 138, 252); 
 }
 
 #nav-table a {

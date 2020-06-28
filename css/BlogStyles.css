@@ -23,45 +23,21 @@
 
 /** Blog body styling */
 
-.blog-container {
-    position: relative;
-    
-}
-
 .blog-title {
-    position: absolute;
-    top: 0px;
-    background-color: black;
-    color: white;
-    font-size: 28px;
-    margin: 0;
-    margin-left: 15%;
-    margin-right: 15%;
-    padding-bottom: 5px;
-    padding-left: 5px;
-    
-}
-
-.blog-header {
     font-size: 28px;
     padding-left: 40px;
     margin-bottom: 5px;
 }
 
-.blog-date {
-    position: absolute;
-    top: 30px;
-    background-color: black;
-    color: white;
-    padding-top: 5px;
-    margin: 0;
-    margin-left: 15%;
-    margin-right: 15%;
-    padding-left: 5px;
-    
+.blog-header {
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 20px;
 }
 
-.blog-post-date {
+.blog-date {
     margin-top: 5px;
     margin-left: 40px;
 }
@@ -69,7 +45,7 @@
 .blog-image {
     width: 70%;
     height: auto;
-    padding-left: 15%
+    margin-left: 15%
 }
 
 .blog-content {
