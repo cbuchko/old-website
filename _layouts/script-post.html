@@ -1,0 +1,56 @@
+---
+layout: wrapper
+header: My Blog
+---
+
+<style> 
+
+
+
+.script-content {
+    font-family: 'Courier';
+    font-size: 17px;
+    font-weight: 550;
+    line-height: 1.5;
+    padding-top: 30px;
+    text-align: left;
+} 
+
+.script-content p {
+    margin-top: 0;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.lead-in {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Roboto';
+}
+
+.character {
+    text-align: center;
+    margin-bottom: 0;
+
+}
+
+.action {
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 17px;
+}
+
+</style>
+
+<ul class="cookie-crumbs">
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/pages/BlogDashboard">Blog Dashboard</a></li>
+    <li>{{ page.title }}</li>
+</ul>
+<h2 class="blog-title">{{ page.title }}</h2>
+<p class="blog-date">{{ page.publish-date }}</p>
+    <img class="blog-image" src="{{ page.image }}"/>
+    <div class="script-content">
+        {{ content }}
+    </div>
