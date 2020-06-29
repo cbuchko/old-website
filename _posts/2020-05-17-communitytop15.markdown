@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: The Ten Best Episodes of Community
-image: /images/Community.jpg
+image: /assets/images/Community.jpg
 publish-date: 2020-05-17
 section: community
 featured: true
@@ -15,7 +15,7 @@ Before I get into it, let me preface this by saying that 80% of Communities epis
 
 ## 10. Paradigms of Human Memory
 
-<img class="blog-image" src="/images/community_episodes/paradigms.jpg" alt="Paradigms of Human Memory" />
+<img class="blog-image" src="/assets/images/community_episodes/paradigms.jpg" alt="Paradigms of Human Memory" />
 
 When a sitcom does a clip show, the goal is to save money by utilizing pre-existing footage. When Community does a clip show, they make it the most intensive and expensive episode produced in the series. 
 
@@ -26,7 +26,7 @@ The laughs are also jam-packed throughout thanks to the episodes fast-paced styl
 
 ## 9. Epidemiology
 
-<img class="blog-image" src="/images/community_episodes/zombies.jpg" alt="Epidemiology" />
+<img class="blog-image" src="/assets/images/community_episodes/zombies.jpg" alt="Epidemiology" />
 
 Epidemiology is an episode where the writers thought to themselves "how batshit insane can we make this?"
 
@@ -38,7 +38,7 @@ The episode wouldn't be nearly as good without the ABBA playlist in the backgrou
 
 ## 8. Regional Holiday Music
 
-<img class="blog-image" src="/images/community_episodes/Community-Xmas.jpg" alt="Regional Holiday Music" />
+<img class="blog-image" src="/assets/images/community_episodes/Community-Xmas.jpg" alt="Regional Holiday Music" />
 
 I thoroughly enjoy every Christmas special but this one stands out for how much pure fun it is. I'm a sucker for goofy songs and I love the concept of each one of them slowly getting indoctrinated into the glee cult. 
 
@@ -48,7 +48,7 @@ The craziness culminates with a very heartfelt moment in the apartment where the
 
 ## 7. Contemporary American Poultry
 
-<img class="blog-image" src="/images/community_episodes/chicken.png" alt="Contemporary American Poultry" />
+<img class="blog-image" src="/assets/images/community_episodes/chicken.png" alt="Contemporary American Poultry" />
 
 Community owes a lot of its success to this first attempt to break the mould with a Goodfellas homage. These homage episodes became main stays in the series and helped the show find its identity. 
 
@@ -58,7 +58,7 @@ Since Contemporary American Poultry is Abed focused, this is a good time to talk
 
 ## 6. Studies in Modern Movement
 
-<img class="blog-image" src="/images/community_episodes/anniesmove.png" alt="#AnniesMove" />
+<img class="blog-image" src="/assets/images/community_episodes/anniesmove.png" alt="#AnniesMove" />
 
 One of the most rewarding experiences when watching Community from start to finish is learning the idiosyncrasies of each member in the Greendale Seven. After several watch throughs of the show, I am very confident that the #AnniesMove episode has the best overall representation of the Greendale Seven in the series.
 
@@ -70,7 +70,7 @@ Every character has their moment and it all comes together for a montage backdro
 
 ## 5. A Fistful of Paintballs/For a Few Paintballs More
 
-<img class="blog-image" src="/images/community_episodes/paintball.png" alt="paintball" />
+<img class="blog-image" src="/assets/images/community_episodes/paintball.png" alt="paintball" />
 
 The paintball episodes are the most well known for a reason.
 
@@ -82,7 +82,7 @@ Kevin Feige enjoyed it so much that he hired the directors, Anthony and Joe Russ
 
 ## 4. Cooperative Calligraphy
 
-<img class="blog-image" src="/images/community_episodes/cooperative_calligraphy.jpg" alt="Cooperative Calligraphy" />
+<img class="blog-image" src="/assets/images/community_episodes/cooperative_calligraphy.jpg" alt="Cooperative Calligraphy" />
 
 Annie loses a pen and the entire episode is a conversation about the whereabouts of the pen. The idea that the entire story relies solely on character interactions is fantastic. 
 
@@ -92,7 +92,7 @@ The slow descent into insanity is done extremely well. The different characters 
 
 ## 3. Conspiracy Theories and Interior Design
 
-<img class="blog-image" src="/images/community_episodes/conspiracy_theories.jpg" alt="conspiracy theories" />
+<img class="blog-image" src="/assets/images/community_episodes/conspiracy_theories.jpg" alt="conspiracy theories" />
 
 This episode perfectly epitomizes peak Community. Professor Professorson AKA Professor Wooley AKA Professor Garrity is one of my favourite infrequent characters and the entire night school plot line is a stroke of genius. I love how it teeters the line between a well thought out conspiracy and a sloppy mess that only the Dean could come up with.
 
@@ -104,7 +104,7 @@ The only negative thing I have to say is that Britta, Shirley and Pierce all tak
 
 ## 2. Environmental Science
 
-<img class="blog-image" src="/images/community_episodes/environmental_science.jpg" alt="environmental science" />
+<img class="blog-image" src="/assets/images/community_episodes/environmental_science.jpg" alt="environmental science" />
 
 The first time I watched Community it didn't click right away how special the show was. The writing was obviously hilarious and the plot lines were creative but something was missing.
 
@@ -117,7 +117,7 @@ No other show has made me emotionally invested in the characters as much as Comm
 
 ## 1. Remedial Chaos Theory
 
-<img class="blog-image" src="/images/community_episodes/chaos_theory.jpg" alt="chaos theory" />
+<img class="blog-image" src="/assets/images/community_episodes/chaos_theory.jpg" alt="chaos theory" />
 
 My favourite episode of any television show ever is a treasure trove of blink and you'll miss it moments. 
 
