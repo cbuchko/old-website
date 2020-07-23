@@ -40,6 +40,11 @@ body {
     margin: 20px 10px;
 }
 
+.sidebar-column {
+    background-color: rgb(181, 230, 238);
+    margin: 20px 10px;
+}
+
 .column {
     padding: 5px;
 }
@@ -104,8 +109,14 @@ body {
 
 /** cookie crumbs styling */
 
-.cookie-crumbs {
+.top-bar {
     background-color: black;
+    position: relative;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.cookie-crumbs {
     margin: 0;
     color: white;
     padding: 10px 16px;
@@ -189,4 +200,76 @@ body {
     border-radius: 22px;
     height: auto;
     width: 70px;
+}
+
+
+/** TEMP MOBILE STUFF */
+
+#nav-toggle {
+    display: none;
+}
+
+#mobile-nav-table {
+    position: absolute;
+    right: 0px;
+}
+
+#mobile-nav-table ul {
+    
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: none;
+}
+
+#mobile-nav-table li {
+    background-color: black;
+    font-size: 25px;
+    font-weight: 550;
+    padding: 3px 5px 3px 10px;
+    color: white;
+    text-align: right;
+}
+
+@media only screen and (max-width: 768px) {
+
+    body {
+        margin: 0;
+    }
+
+    .title {
+        padding: 10px;
+    }
+
+    .main-container {
+        display: block;
+    }
+
+    .main-column {
+        margin: 0;
+    }
+
+    .sidebar-column {
+        display: none;
+    }
+
+    #about-me {
+        display: block;
+    }
+
+    #nav-toggle {
+        display: block;
+        color: white;
+        text-decoration: none;
+        margin: auto;
+        width: 20%;
+        font-size: 28px;
+    }
+
+    #nav-toggle:hover, #nav-toggle:active ~ #mobile-nav-table ul{
+        display: block;
+
+    }
+
+
 }
