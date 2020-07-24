@@ -43,11 +43,25 @@ header: My Blog
 
 </style>
 
-<ul class="cookie-crumbs">
-    <li><a href="/index.html">Home</a></li>
-    <li><a href="/pages/BlogDashboard">Blog Dashboard</a></li>
-    <li>{{ page.title }}</li>
-</ul>
+<div>
+    <div class="top-bar">
+        <ul class="cookie-crumbs">
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/pages/BlogDashboard">Blog Dashboard</a></li>
+            <li>{{ page.title }}</li>
+        </ul>
+        <a id="nav-toggle" onclick="myFunc()">&#9776;</a>
+    </div>
+    <nav id="mobile-nav-table" style="display: none">
+        <ul id="mobile-nav-list">
+            <a href="/index.html"><li>Home</li></a>
+            <a href="/pages/BlogDashboard.html"><li>Blog Dashboard</li></a>
+            <a href="/resume.pdf"><li>Resume</li></a>
+            <a href="/pages/Projects.html"><li>Projects</li></a>
+        </ul>
+    </nav>
+    
+</div>
 <h2 class="blog-title">{{ page.title }}</h2>
 <p class="blog-date">{{ page.publish-date }}</p>
     <img class="blog-image" src="{{ page.image }}"/>

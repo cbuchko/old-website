@@ -5,15 +5,28 @@ header: My Projects
 
 <link href="/css/ProjectStyles.css" rel="stylesheet" type="text/css" />
 
-<ul class="cookie-crumbs">
-    <li><a href="/index.html">Home</a></li>
-    <li>Projects</li>
-</ul>
-
+<div>
+    <div class="top-bar">
+        <ul class="cookie-crumbs">
+            <li><a href="/index.html">Home</a></li>
+            <li>Projects</li>
+        </ul>
+        <a id="nav-toggle" onclick="myFunc()">&#9776;</a>
+    </div>
+    <nav id="mobile-nav-table" style="display: none">
+        <ul id="mobile-nav-list">
+            <a href="/index.html"><li>Home</li></a>
+            <a href="/pages/BlogDashboard.html"><li>Blog Dashboard</li></a>
+            <a href="/resume.pdf"><li>Resume</li></a>
+            <a href="/pages/Projects.html"><li>Projects</li></a>
+        </ul>
+    </nav>
+    
+</div>
 <h2 class="blog-title">Game Development</h2>
 
 <div class="project-box">
-    <img class="project-image" src="/assets/images/gameexample.gif" style="margin-left:40px;"></img>
+    <img class="project-image" src="/assets/images/gameexample.gif"></img>
     <p style="padding-left:10px;">My first attempt at developing a game, I plunged into Unity with C# and had a blast. 
         The rough concept is a survival game where you start off stranded and slowly
         build your society (extremely original, I know).    

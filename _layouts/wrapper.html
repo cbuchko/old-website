@@ -45,5 +45,16 @@ title: index
                 {% endfor %}
             </div>              
         </div>
+    <script>
+        function myFunc(){
+
+            var x = document.getElementById("mobile-nav-table");
+            if(x.style.display === "none"){
+                document.getElementById("mobile-nav-table").style.display = "block";
+            }else{
+                document.getElementById("mobile-nav-table").style.display = "none";
+            }
+        }
+    </script>
     </body>
 </html>

@@ -210,6 +210,7 @@ body {
 }
 
 #mobile-nav-table {
+    display: none;
     position: absolute;
     right: 0px;
 }
@@ -219,7 +220,7 @@ body {
     list-style: none;
     margin: 0px;
     padding: 0px;
-    display: none;
+    display: block;
 }
 
 #mobile-nav-table li {
@@ -264,12 +265,13 @@ body {
         margin: auto;
         width: 20%;
         font-size: 28px;
+        cursor: pointer;
     }
 
-    #nav-toggle:hover, #nav-toggle:active ~ #mobile-nav-table ul{
+    /* #nav-toggle:active ~ #mobile-nav-table ul{
         display: block;
 
-    }
+    } */
 
 
 }

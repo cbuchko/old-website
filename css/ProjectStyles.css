@@ -6,7 +6,23 @@
 .project-image {
     width: 90%;
     height: auto;
-    margin-left: 15%;
     padding-top: 10px;
+    margin-left: 40px;
      
+}
+
+@media only screen and (max-width: 768px) {
+
+    .project-box {
+        display: block;
+    }
+
+    .project-image {
+        margin-left: 10px;
+    }
+
+    .blog-title{
+        margin-left: 10px;
+        padding-left: 0px;
+    }
 }
