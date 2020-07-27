@@ -1,6 +1,10 @@
 a:visited {
     color:black;
 }
+
+a {
+    color: black;
+}
 body {
     margin: 1% 15% 0 15%;
     background-color: rgb(224, 207, 207);
