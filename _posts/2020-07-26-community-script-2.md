@@ -38,7 +38,7 @@ Ooh, like how great power always comes with great responsibility.
 Or how drinking coffee always comes with the obligation of diarrhea.
 
 <p class = "character"> JEFF </p> 
-Okay, I officially declare this conversation as stupid.
+Alright, I officially declare this conversation as stupid.
 
 <p class = "character"> ANNIE </p> 
 You're just saying that because you can't think of one.
@@ -79,7 +79,7 @@ Hello!
 Sorry Dean, we're in the middle of a weirdly intense conversation and I'm having a really hard time following it.
 
 <p class = "character"> THE DEAN </p>
-Oh, I was gonna let you know about the anti-pacifism riot in the quad but this seems much more important. What's going on?
+I was gonna let you know about the anti-pacifism riot in the quad but this seems much more important. What's going on?
 
 <p class = "character"> ABED </p> 
 We're talking about the pressures of society and how we often have expectations thrust upon us.
