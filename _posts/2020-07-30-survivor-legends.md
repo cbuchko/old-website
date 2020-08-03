@@ -15,7 +15,7 @@ For this list, I'm not necessarily trying to predict what I think the cast would
 
 If there's ever a Legends season, the King himself has to be on the cast. Undisputibly the best to ever play the game, Tony has shown countless times that he will do whatever it takes to win. 
 
-The great thing about Tony is that he's also one of the biggest characters to ever play the game. He's made the spy shack, spy bunker and spy nest, found multiple idols and is fluent in llama, who knows what else he has left in his arsenel. 
+The great thing about Tony is that he's also one of the biggest characters to ever play the game. He's made the spy shack, spy bunker and spy nest, found multiple idols and is fluent in Llama, who knows what else he has left in his bag of tricks. 
 
 ## Benjamin "Coach" Wade
 
@@ -71,6 +71,51 @@ Russell burned a lot of bridges with CBS over the years but it's been ten years 
 
 ## Sandra Diaz-Twine
 
+Similar to Tony, it would make no sense to do this season without Sandra. The Queen of Survivor not only has won the game twice but is unapologetically sassy. 
+
+I was not the biggest fan of Sandra in the seasons she won, Pearl Islands and HvV. But she actually played really hard in Game Changers and Winners at War. I think this fifth iteration of Sandra could be the must cutthroat one yet.
+
+## Kim Spradlin
+
+Kim's win in One World is still one of the most dominating performances in the history of Survivor. Watching that season is boring because Kim made it look so easy. In Winners at War, Kim had a rough start, but I still saw a lot of solid gameplay for her that reminded me of her previous outing.
+
+I think a Legends season would be Kims perfect opportunity to have a chance in the season where she isn't immediately an outcast and would allow her to work her charm that won her that original season.
+
+
+## Kelley Wentworth
+
+As far as new school women go, Wentworth is arguably the most iconic. After a pre-merge boot in San Juan Del Sur, she had an electric underdog story in Second Chance and proved that she's an expert at playing from the bottom.
+
+When you compare Wentworth to the rest of the cast, there's some doubts that she might not be aggressive enough to stand up, but
+
+## Parvati Shallow
+
+Parvati is hands down my favourite player. Parvati could play every season and I would not get bored of her. 
+
+She led a dominating alliance in Micronesia and was borderline robbed of the win in Heroers vs Villians. After a disappointing performances in Winners at War, I need to see her play at least one more time.
+
+## Andrea Boehlke
+
+Andrea is an interesting character. She has been on three new school seasons, that were all equally terrible. However, she made it very far in all of them and was always a contender to win.
+
+## Jerri Manthey
+
+The OG villianess of Survivor, Jerri has an incredibly compelling case to return.
+
+## Michele Fitzgerald
+
+After Kaoh Rong, Micheles win was met with a lot of controversey. A lot of people felt like a bitter jury handed her the win. After Winners at War, Michele showed that it was her excellent social game that resulted in her winning. You don't make the final three twice by accident.
+
+I think Michele represents a lot of amazing qualities of new school Survivor.
+
+## Aubry Bracco
+
+## Cirie Fields
+
+The best to never win.
+
+
+
 Brainstorm:
 
 HvV: 7
@@ -78,16 +123,3 @@ HvV: 7
 WaW: 6
 Old School: 10
 New School: 9
-
-Women:
-
-Sandra Diaz-Twine (*)
-Cire Fields (*)
-Jerri Manthey (?)
-Parvati Shallow (**)
-
-Kelley Wentworth (*)
-Andrea Boehlke
-Michele Fitzgerald
-Aubry Bracco (?)
-Kim Spradlin
