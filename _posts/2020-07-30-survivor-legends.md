@@ -104,7 +104,7 @@ The problem with Penner is that I would be shocked if he actually ever played ag
 
 ## Russell Hantz
 
-<img class="blog-portrait2" src="/assets/images/survivor_legends/Russell.jpg" alt="Russell Hantz" />
+<img class="blog-portrait2" src="/assets/images/survivor_legends/russell.jpg" alt="Russell Hantz" />
 
 And of course, you can't talk about the most notorious to play the game without mentioning Russell Hantz. The textbook definition of a villain, Russell plays an extremely good 2nd place game. The legendary antics that got Russell his popularity are the exact reasons why he will never win Survivor.
 
