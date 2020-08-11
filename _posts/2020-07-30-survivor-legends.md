@@ -1,15 +1,15 @@
 ---
 layout: blog-post
 title: Casting a Survivor Legends Season
-image: /assets/images/survivor_legends/cast.png
-publish-date: 2020-07-30
+image: /assets/images/survivor_legends/montage.jpg
+publish-date: 2020-08-10
 section: survivor
 featured: false
 ---
 
-Season 50 of Survivor is five years away and it will undoubtedly be the biggest season yet. A season of the biggest characters to ever play the game makes the most sense and would be even more hype than Winners at War. In my mind, a legend isn't just an amazing player, but someone who's name is synonymous with Survivor. Someone who has played multiple times and has consistently brought entertainment and gameplay.
+Season 50 of Survivor is five years away and it will undoubtedly be the biggest season yet. A season of the most iconic characters to ever play the game makes the most sense and would be even more hype than Winners at War. In my mind, a legend isn't just an amazing player, but someone who's name is synonymous with Survivor. Someone who has played multiple times and has consistently brought entertainment and gameplay.
 
-For this list, I'm not necessarily trying to predict what I think the cast would be, I'm just saying what my dream cast is. A couple of these players I would be genuinely shocked if they ended up playing again. I also did my best to get a good spread over the 20 years of Survivor. I didn't want this cast to be a repeat of Heroes vs. Villians or Winners at War. So starting with the males,
+For this list, I'm not necessarily trying to predict what I think the cast would be, I'm just saying what my dream cast is. A couple of these players I would be genuinely shocked if they ended up playing again. I also did my best to get a good spread over the 20 years of Survivor. I didn't want this cast to be a repeat of Heroes vs. Villains or Winners at War. So starting with the males,
 
 <style>
 
@@ -17,6 +17,16 @@ For this list, I'm not necessarily trying to predict what I think the cast would
     width: 40%;
     height: auto;
     margin-left: 30%;
+}
+
+@media only screen and (max-width: 768px) {
+
+.blog-portrait2 {
+    width: 60%;
+    height: auto;
+    margin-left: 15%;
+}
+
 }
 </style>
 
@@ -32,7 +42,7 @@ The great thing about Tony is that he's also one of the biggest characters to ev
 
 <img class="blog-portrait2" src="/assets/images/survivor_legends/Coach.jpg" alt="Coach" />
 
-When I think of Survivor "Legends", Coach is the first person that comes to mind and I would be the most excited to see him back. He changed the game by making it about honour and integrity, the first person to want to take the strongest to the end. Of course, this is a terrible strategy but it results in hilarious TV.
+When I think of Survivor Legends, Coach is the first person that comes to mind and I would be the most excited to see him back. He changed the game by making it about honour and integrity, he's the first person to want to take the strongest to the end. Of course, this is a terrible strategy but it results in hilarious TV.
 
 He's a real-life cartoon character and his delusions are reminiscent of Michael Scott. The best thing about Coach is how he becomes a punching bag for the rest of the cast. And when you have cast like this one, the jabs are almost inevitable. 
 
@@ -48,7 +58,7 @@ The great thing about a Legends season is that the overall threat level of the c
 
 <img class="blog-portrait2" src="/assets/images/survivor_legends/Cesternino.jpg" alt="Rob Cesternino" />
 
-Last time Cesternino played was Season 8, All-Stars, and somehow his reputation still carries on to this day. Cesternino has influenced how the game is played almost more than any other player (only second to the person who helped create the idea of an 'alliance'). 
+Last time Cesternino played was 15 years ago in All-Stars and somehow his reputation still carries on to this day. Cesternino has influenced how the game is played almost more than any other player (only second to the person who helped create the idea of an 'alliance'). 
 
 In the Amazon, he was the first person to play the middle between the two main alliances, constantly flipping between whichever one most suited his needs. And although he didn't win the game, he came damn close. Since then, Cesternino is extremely active in the Survivor community, being the shows biggest content creator with his podcast.
 
@@ -58,7 +68,7 @@ In the Amazon, he was the first person to play the middle between the two main a
 
 Jeremy was someone I was slightly hesitant about putting on the list. But when you put in perspective that season 50 is still five years away, I would want to see Jeremy in 2025.
 
-Jeremy is probably the most well-rounded player in survivor history. He is absolutely built for challenges, he is incredibly strategic and his social game is what won him Cambodia. Being the person to master the 'Meat Shield' strategy, he definitely deserves to be on a Legends season.
+Jeremy is probably the most well-rounded player in Survivor history. He is absolutely built for challenges, he is incredibly strategic and his social game is what won him Cambodia. Being the person to master the 'Meat Shield' strategy, he definitely deserves to be on a Legends season.
 
 ## Malcolm Freberg
 
@@ -66,15 +76,15 @@ Jeremy is probably the most well-rounded player in survivor history. He is absol
 
 Malcolm was another no-brainer for me. The best to ever play the "Golden Boy" archetype, Malcolm is extremely charismatic and incredibly fun to watch. He takes the Ozzy approach where he provides for his tribe and is a beast in challenges, but he also has a social game and isn't a douchebag.
 
-In a season like this, Malcolm would not be even close to the biggest threat out. I think he would be able to bro-down with people like Boston Rob and Jeremy, and then through challenge wins make it all the way.
+In a season like this, Malcolm would be able to fade into the background a bit. I think he would bro-down with people like Boston Rob and Jeremy, and then through challenge wins make it all the way.
 
 ## Richard Hatch
 
 <img class="blog-portrait2" src="/assets/images/survivor_legends/hatch.jpg" alt="Richard Hatch" />
 
-It would be wrong to do a Legends season without the first person to ever win Survivor. Hatch was ahead of the curve back in Borneo. He was the only person who was really thinking about the game analytically and it showed in his strategy. As I mentioned before, he created the first alliance and made one of the cleverest moves ever when he purposefully lost the final immunity challenge.
+It would be wrong to do a Legends season without the first person to ever win Survivor. Hatch was ahead of the curve back in Borneo. He was the only person who was really thinking about the game analytically and it showed in his strategy. As I mentioned before, he created the first alliance and made one of the most clever moves ever when he purposefully lost the final immunity challenge.
 
-I'm not entirely sure if Hatch would actually come back. He almost was on Winners at War but was cut at the last minute, so we know he wants to. But his drama with CBS might mean that we will never see him again.
+I'm not entirely sure if Hatch would actually come back. He was almost on Winners at War but was cut at the last minute, so we know he wants to. But his drama with CBS might mean that we will never see him again.
 
 ## John Cochran
 
@@ -82,7 +92,7 @@ I'm not entirely sure if Hatch would actually come back. He almost was on Winner
 
 Some people don't like Cochran, but I absolutely adore him. His two-season transformation from nervous, neurotic nerd to winning in dominating fashion is inspiring. His insight and commentary on the game is always amazing, you can tell that he can't contain his inner Survivor superfan.
 
-Cochran is also one of two people to play a perfect game and would probably have the most Survivor knowledge of anyone on the island. It would also be hilarious to have another season of Cochran absolutely clowning on Coach in his confessionals.
+Cochran is also one of two people to play a perfect game and would probably have the most Survivor knowledge of anyone on the island. Most importantly, it would be hilarious to have another season of Cochran absolutely clowning on Coach in his confessionals.
 
 ## Jonathan Penner
 
@@ -96,7 +106,7 @@ The problem with Penner is that I would be shocked if he actually ever played ag
 
 <img class="blog-portrait2" src="/assets/images/survivor_legends/Russell.jpg" alt="Russell Hantz" />
 
-And of course, you can't talk about the most notorious to play the game without mentioning Russell Hantz. The biggest villain to ever play, Russell is Tony but also an asshole. So in reality, Russell really isn't that good at Survivor, but he sure as hell is a Legend.
+And of course, you can't talk about the most notorious to play the game without mentioning Russell Hantz. The textbook definition of a villain, Russell plays an extremely good 2nd place game. The legendary antics that got Russell his popularity are the exact reasons why he will never win Survivor.
 
 Russell burned a lot of bridges with CBS over the years but it's been ten years since the last time he played. By the time season 50 rolls around, I doubt CBS will be able to turn down the opportunity.
 
@@ -106,7 +116,7 @@ Russell burned a lot of bridges with CBS over the years but it's been ten years 
 
 Similar to Tony, it would make no sense to do this season without Sandra. The Queen of Survivor not only has won the game twice but is unapologetically sassy. 
 
-I was not the biggest fan of Sandra in the seasons she won, Pearl Islands and HvV. But she actually played really hard in Game Changers and Winners at War. This fifth iteration of Sandra could be the must cutthroat one yet.
+I was not the biggest fan of Sandra in the seasons she won, Pearl Islands and Heroes vs Villains. But she actually played really hard in Game Changers and Winners at War. This fifth iteration of Sandra could be the must cutthroat one yet.
 
 ## Kim Spradlin-Wolfe
 
@@ -114,7 +124,7 @@ I was not the biggest fan of Sandra in the seasons she won, Pearl Islands and Hv
 
 Kim's win in One World is still one of the most dominating performances in the history of Survivor. Watching that season is boring because Kim made it look so easy. In Winners at War, Kim had a rough start, but I still saw a lot of solid gameplay from her that reminded me of her previous outing.
 
-A Legends season would be Kims perfect opportunity to have a chance in a season where she isn't immediately an outcast and would allow her to work her charm that won her that original season.
+A Legends season would be Kims perfect opportunity to play in a season where she isn't immediately an outcast and would allow her to work her charm that won her that original season.
 
 ## Kelley Wentworth
 
@@ -122,7 +132,7 @@ A Legends season would be Kims perfect opportunity to have a chance in a season 
 
 As far as new school women go, Wentworth is arguably the most iconic. After a pre-merge boot in San Juan Del Sur, she had an electric underdog story in Second Chance and proved that she's an expert at playing from the bottom.
 
-When you compare Wentworth to the rest of the cast, there are some doubts that she might not have what it takes to compete, but I think her coming in as an underdog would be a position she is a familiar with, allowing her to do some real damage.
+When you compare Wentworth to the rest of the cast, there are some doubts that she might not have what it takes to compete, but I think her coming in underestimated would be a position she is a familiar with, allowing her to do some real damage.
 
 ## Aubry Bracco
 
@@ -136,7 +146,7 @@ That being said, she is still very game savvy and gives great confessionals. She
 
 <img class="blog-portrait2" src="/assets/images/survivor_legends/Parvati.jpg" alt="Parvati Shallow" />
 
-Parvati is hands down my favourite player. She could play every season and I would not get bored of her. 
+Parvati is hands down my favourite player. She could play every season and I would not get bored of her. Parvati's legacy is so impactful that nowadays when charming young females play the game, they often get labelled as a threat, due to the fear they are a "Parvati 2.0".
 
 She led a dominating alliance in Micronesia and was borderline robbed of the win in Heroes vs Villains. After a disappointing performance in Winners at War, I need to see her play at least one more time.
 
@@ -146,7 +156,7 @@ She led a dominating alliance in Micronesia and was borderline robbed of the win
 
 Andrea is an interesting character. She has been on three new school seasons that were all equally terrible. However, she made it very far in all of them and was always a contender to win. 
 
-I want to see how Andrea fares against a group of people that has more than two brain cells. She is very well rounded and has pr
+Andrea has proven herself countless times against Survivor duds, but I want to see how Andrea fares against a group of people that has more than two brain cells. She is very well rounded and is an example of someone who could play Survivor 100 times and always do well.
 
 ## Jerri Manthey
 
@@ -168,7 +178,7 @@ As of right now, Michele is the only multi-time Survivor player to have never be
 
 <img class="blog-portrait2" src="/assets/images/survivor_legends/Kass.jpg" alt="Kass McQuillen" />
 
-Kass being a legend is kind of a stretch since she's only been on two seasons but her single appearance in Cagayan is still iconic to me. Kass is like a female Coach, where she is aware of the way she acts and she knows that it makes good TV, and those kinds of people need to be on this season. 
+Kass being a legend is kind of a stretch since she's only been on two seasons but her single appearance in Cagayan is still iconic to me. Kass is like a female Coach, with how she is aware of the way she acts and she knows that it makes good TV, and those kinds of people need to be on this season. 
 
 Kass also fills a couple of holes in the cast, being a new school older female. Not to mention that this would be the reunion of Kass and Tony, and we all know what happened between them last time.
 
@@ -178,4 +188,8 @@ Kass also fills a couple of holes in the cast, being a new school older female. 
 
 The best to never win, Cirie understands the strategic side of Survivor maybe better than anyone else. All four times Cirie has played she has been eliminated by a twist, with no fault on her own part. 
 
-In order, she was eliminated by a fire-making challenge, surprise final two, immunity idol, and was automatically eliminated by being the only person not immune. It's about time Cirie broke her curse by winning and an all Legends season could finally be her chance.
+In order, she was eliminated by a fire-making challenge, surprise final two, immunity idol, and was automatically eliminated by being the only person not immune. It's about time Cirie broke her curse by giving one last try in a Legends season.
+
+And that's it! Twenty of Survivors best and most iconic players. If this season ever ends up happening, this cast would be my ultimate dream. 
+
+<img class="blog-image" src="/assets/images/survivor_legends/cast.PNG" alt="cast" style="width:85%; margin-left:5%;"/>
