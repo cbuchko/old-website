@@ -74,7 +74,7 @@ No honest person has ever used that phrase.
 <div class = "action">Jeff skims through Troy's paper</div>
 
 <p class = "character"> JEFF (CONT'D) </p> 
-Troy, you cited six sources, none of which were Wikipedia, when Change probably doesn't even know what a reference is. I've never seen you do more than the required work.
+Troy, you cited six sources, none of which were Wikipedia, when Chang probably doesn't even know what a reference is. I've never seen you do more than the required work.
 
 <p class = "character"> ABED </p> 
 It's true. Last week we went to Build-A-Bear but he left before picking out its outfit.
@@ -107,7 +107,7 @@ Dodgeball, a sport so gay it has ball in its name.
 <div class = "action">The banter continues.</div>
 
 <p class = "character"> SHIRLEY </p> 
-What were you saing about preserving the integrity of the teams?
+What were you saying about preserving the integrity of the teams?
 
 <p class = "character"> JEFF </p> 
 That integrity was lost a long time ago when Greendale's equality initiative resulted in three water polo drownings.

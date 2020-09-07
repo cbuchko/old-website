@@ -23,23 +23,23 @@ title: index
             {{ content }}
             </div>
             <ul class="widgets">
-                <li><a href="https://github.com/cbuchko"><img src="/assets/images/github.png"/></a></li>
-                <li><a href="https://www.linkedin.com/in/connor-buchko-17932116a/"><img src="/assets/images/linkedin.png"/></a></li>
+                <li><a href="https://github.com/cbuchko" target="_blank" rel="noreferrer"><img src="/assets/images/github.png"/></a></li>
+                <li><a href="https://www.linkedin.com/in/connor-buchko-17932116a/" target="_blank" rel="noreferrer"><img src="/assets/images/linkedin.png"/></a></li>
             </ul>
             </div>
             <div class="sidebar-column" style="margin-right: 0;">
                 <nav id="nav-table">
                     <ul>
-                        <a href="/index.html"><li>Home</li></a>
-                        <a href="/pages/BlogDashboard.html"><li>Blog Dashboard</li></a>
-                        <a href="/resume.pdf"><li>Resume</li></a>
-                        <a href="/pages/Projects.html"><li>Projects</li></a>
+                        <a href="/index.html" rel="noreferrer" ><li>Home</li></a>
+                        <a href="/pages/BlogDashboard.html" rel="noreferrer"><li>Blog Dashboard</li></a>
+                        <a href="/resume.pdf" target="_blank" rel="noreferrer"><li>Resume</li></a>
+                        <a href="/pages/Projects.html" rel="noreferrer"><li>Projects</li></a>
                     </ul>
                 </nav>
                 <h2 class="sidebar-header">Featured Blog Posts</h2>
                 {% for post in site.posts %}
                     {% if post.featured == true %}
-                    <a href="{{ post.url }}">
+                    <a href="{{ post.url }}" rel="noreferrer">
                         <img class="thumbnail" src="{{ post.image }}" />
                         <p style="margin: 0px 7px; text-align: center;">{{ post.title }}</p>  
                     </a>   
