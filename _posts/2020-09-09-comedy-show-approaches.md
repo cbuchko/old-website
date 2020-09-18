@@ -22,7 +22,7 @@ The sitcom-style allowed 30 Rock to have the best story arcs and character devel
 
 As a big Dan Harmon fan, I had a lot of anticipation before starting Rick and Morty. The hype around this show was unignorable and sometimes borderline annoying. But I have to say, I loved it. I would describe the jokes as 'amusing' more so than 'hilarious' but the driving force of the show isn't from the comedy, it's from the mind-blowing cinematic adventures
 
-That is the advantage Rick and Morty have being a cartoon. The writers have complete creative freedom to come up with any episode imaginable. Not a single episode feels like filler, in fact, most of the time the episodes have so much going on they could easily stand alone. Frequently the plot will be centred around an overused trope in TV and film, poking satirical fun at how ridiculous it is. Rick and Morty is a breath of fresh air in a world with a lot of 'safe' TV shows that are afraid to push the status quo.
+That is the advantage Rick and Morty has being a cartoon. The writers have complete creative freedom to come up with any episode imaginable. Not a single episode feels like filler, in fact, most of the time the episodes have so much going on they could easily stand alone. Frequently the plot will be centred around an overused trope in TV and film, poking satirical fun at how ridiculous it is. Rick and Morty is a breath of fresh air in a world with a lot of 'safe' TV shows that are afraid to push the status quo.
 
 ## Nathan For You
 
