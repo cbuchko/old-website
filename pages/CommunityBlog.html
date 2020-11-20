@@ -35,9 +35,7 @@ header: Community Blog
 <ul class = "featured-blog">
     {% for post in site.posts %}
         {% if post.section == "community" %}
-            {% if post.layout != 'script-post' %}
-                <li>{% include blog-entry.html link=post.url title=post.title excerpt=post.excerpt image=post.image publish_date=post.publish-date %}</li>
-            {% endif %}
+            <li>{% include blog-entry.html link=post.url title=post.title excerpt=post.excerpt image=post.image publish_date=post.publish-date %}</li>
         {% endif %}
     {% endfor %}
 </ul>
