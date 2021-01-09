@@ -23,7 +23,7 @@ Compared to being drunk yourself?
 Commpared to calling a cab! Pay a little extra money and leave the risk to the professional!
 <p class = "character"> ABED </p>
 How much extra money do I need to change the subject?
-<div class = "action"> As he speaks, Abed walks over to the traffic lgiht and starts examining it. The light changes from green to yellow.</div>
+<div class = "action"> As he speaks, Abed walks over to the traffic light and starts examining it. The light changes from green to yellow.</div>
 <p class = "character"> SHIRLEY </p>
 Careful Abed, I don't think it likes that.
 <div class = "action">Abed backs away slowly but the light stays yellow. Everyone takes their seats at the table.</div>
@@ -31,7 +31,7 @@ Careful Abed, I don't think it likes that.
 How are we supposed to study with this thing in the way?
 <p class = "character">  JEFF </p>
 Don't worry about that.
-<div class = "action"> Jeff picks up the traffic light and begins to walk away. The gorup yells at him to be careful and to put it back. The light turns from yellow to red and an alarm blares.</div>
+<div class = "action"> Jeff picks up the traffic light and begins to walk away. The group yells at him to be careful and to put it back. The light turns from yellow to red and an alarm blares.</div>
 <p class = "character">  ABED </p>
 Something really awesome or really terrible is about to happen.
 <p class = "character">  TROY </p>
@@ -43,7 +43,7 @@ Nicholson's Joker...
 Good morning, I heard you guys getting acquainted with the study groups newest member.
 <p class = "character">  ANNIE </p>
 Sorry Dean, the position of robot is filled and Abed's much more Iron Giant than this HAL 9000.
-<div class = "action">Annie looks to Abed for approval on her movie references, Abed gives her a thumbs up.</div>
+<div class = "action">Annie looks to Abed for approval of her movie references, Abed gives her a thumbs up.</div>
 <p class = "character"> SHIRLEY </p>
 What's this even for? Is it a punishment?
 <p class = "character"> TROY </p>
@@ -58,7 +58,7 @@ Want to turn the study room into a racetrack later?
 Get out of my brain
 <div class = "action">Troy and Abed do their signature handshake.</div>
 <p class = "character"> THE DEAN </p>
-Okay, there are serious students that study right oustide this room who have made serious complaints about certain study groups using this space for yelling matches and cat fights.
+Okay, there are serious students that study right outside this room who have made serious complaints about certain study groups using this space for yelling matches and cat fights.
 <p class = "character"> BRITTA  </p>
 My apartment was being fumigated, my cats had nowhere else to go!
 <p class = "character"> THE DEAN  </p>
