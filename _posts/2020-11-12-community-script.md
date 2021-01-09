@@ -1,6 +1,6 @@
 ---
 layout: script-post
-title: Drafting a Scene for Community Volume 4
+title: "Community Scene: Halloween Dance"
 image: /assets/images/community_logo.jpg
 publish-date: 2020-11-12
 section: community
