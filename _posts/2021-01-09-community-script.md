@@ -7,6 +7,10 @@ section: community
 featured: false
 ---
 
+<div class = "lead-in"> My first fan-made Community script in 2021 is inspired by real events.</div>
+
+<br>
+
 <div class = "action"><strong>INT. STUDY ROOM - MORNING</strong></div>
 <div class = "action">The study group walks into the study room together. Centered on the table is a traffic stoplight with its green light on. The group is confused.</div>
 <p class = "character"> JEFF </p>
