@@ -1,6 +1,6 @@
 ---
 layout: script-post
-title: Drafting a Scene for Community
+title: Writing a Scene for Community
 image: /assets/images/community_logo.jpg
 publish-date: 2020-06-29
 section: community

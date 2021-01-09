@@ -1,6 +1,6 @@
 ---
 layout: script-post
-title: Drafting a Scene for Community Volume 2
+title: "Community Scene: Banana Bread"
 image: /assets/images/community_logo.jpg
 publish-date: 2020-07-26
 section: community

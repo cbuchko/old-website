@@ -1,6 +1,6 @@
 ---
 layout: script-post
-title: Drafting a Scene for Community Volume 3
+title: "Community Scene: Forgery and Evasive Maneuvers"
 image: /assets/images/community_logo.jpg
 publish-date: 2020-09-06
 section: community
