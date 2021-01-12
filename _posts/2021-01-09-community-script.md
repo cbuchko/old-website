@@ -20,7 +20,7 @@ No.. but is it so bad to point out that driving a car filled with drunks could b
 <p class = "character"> SHIRLEY </p>
 Compared to being drunk yourself?
 <p class = "character"> ANNIE </p>
-Commpared to calling a cab! Pay a little extra money and leave the risk to the professional!
+Compared to calling a cab! Pay a little extra money and leave the risk to the professional!
 <p class = "character"> ABED </p>
 How much extra money do I need to change the subject?
 <div class = "action"> As he speaks, Abed walks over to the traffic light and starts examining it. The light changes from green to yellow.</div>
@@ -82,5 +82,5 @@ It's not! Do you guys listen to anything I say!?
 <p class = "character"> PIERCE </p>
 Why are you still whispering?
 <p class = "character"> TROY </p>
-(whispering) Because I don't want to get another penalty on my license, I already have way too many unpaid speeding tickets.
+(whispering) Because I don't want another penalty on my license, I already have way too many unpaid speeding tickets.
 <div class = "action">Opening sequence.</div>
