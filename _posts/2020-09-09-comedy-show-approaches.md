@@ -3,7 +3,7 @@ layout: blog-post
 title: "Comedy TV: Which Approach is Best?"
 image: /assets/images/comedy_shows/ensamble.png
 publish-date: 2020-09-17
-featured: true
+featured: false
 ---
 
 Over the summer I watched three comedy shows that approached the genre in distinct ways. The 2006 NBC sitcom '30 Rock', the adult cartoon phenomenon 'Rick and Morty' and the cringe-fest unscripted documentary 'Nathan For You'. After watching all three, I realized that I loved them all but for different reasons. I thought it could be insightful to take a closer look, to examine what makes each of these shows good, and how the different approaches allow them to flourish.
