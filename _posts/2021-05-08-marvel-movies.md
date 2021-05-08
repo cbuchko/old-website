@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "I watched the entire Marvel Cinematic Universe, here's what I thought"
+title: "My thoughts on the entire Marvel Cinematic Universe"
 image: /assets/images/marvel-logo-header.jpg
 publish-date: 2021-05-08
 featured: true
