@@ -34,7 +34,7 @@ That being said, this movie is still a stinker when compared to the rest of the 
 
 <img class="blog-image" src="/assets/images/MCU/antman.jpg" alt="Ant-Man" />
 
-Ant-Man was one of the movies I had never scene before. When it released in theatres it seemed very generic and unremarkable, I felt like I could skip it without missing much. But I've come to realize that is exactly why this movie works. In an age of galactic level bad guys that threaten to end all existence, we get a quaint heist movie helmed by comedic legends like Paul Rudd and Michael Peña. 
+Ant-Man was one of the movies I had never seen before. When it released in theatres it seemed very generic and unremarkable, I felt like I could skip it without missing much. But I've come to realize that is exactly why this movie works. In an age of galactic level bad guys that threaten to end all existence, we get a quaint heist movie helmed by comedic legends like Paul Rudd and Michael Peña. 
 
 It's hard to complain about Ant-Man. It wasn't trying to be the next Shawshank or even the next Iron Man. But everything it aims to do, it does exceptionally. 
 
