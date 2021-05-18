@@ -3,7 +3,7 @@ layout: blog-post
 title: "Bojack Horseman is a Masterpiece"
 image: /assets/images/bojack.jpg
 publish-date: 2020-11-26
-featured: true
+featured: false
 ---
 
 Watching Bojack Horseman was a truly life-changing experience. It's impossible to compare it to any other show because nobody else has attempted what Bojack pulled off. But what exactly makes it a masterpiece? Let's find out.
