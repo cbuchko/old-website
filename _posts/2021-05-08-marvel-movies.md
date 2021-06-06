@@ -3,7 +3,7 @@ layout: blog-post
 title: "My Thoughts on the Entire Marvel Cinematic Universe"
 image: /assets/images/MCU/marvel-logo-header.jpg
 publish-date: 2021-05-08
-featured: true
+featured: false
 ---
 
 As a self-proclaimed Marvel "fanboy", I set a challenge for myself to watch every movie in order. I wanted to appreciate the timeline from start to finish. After a month, I completed my goal, and I gained a new appreciation for the universe.
