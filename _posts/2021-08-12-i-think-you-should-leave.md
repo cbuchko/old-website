@@ -6,7 +6,7 @@ publish-date: 2021-08-12
 featured: true
 ---
 
-Almost a year ago I made a blog post claiming Nathan For You was the funniest show I've see, I retract that statement, that honour now goes to I Think You Should Leave. The first time watching the show I was in tears, *literally* I was crying. Merely remembering some of my favourite sketches gets an audible laugh out of me. The show is absurd, stupid, and at times cringey, but Jesus Christ it's funny.
+Almost a year ago I made a blog post claiming Nathan For You was the funniest show I've seen. I retract that statement, the honour now goes to I Think You Should Leave with Tim Robinson. The first time watching the show I was in tears, *literally* I was crying. Merely remembering some of my favourite sketches gets an audible laugh out of me. The show is absurd, stupid, and at times cringey, but Jesus Christ it's funny.
 
 Like Saturday Night Live, I Think You Should Leave is a sketch comedy show. Currently twelve episodes total and each episode is less than 20 minutes. The experience is fast-paced, which is perfect for a sketch show because they don't dwell too long on the duds. And there are some duds, but I know people that *love* even some of my least favourite sketches. The show is a cosmic gumbo that anyone can enjoy.
 
