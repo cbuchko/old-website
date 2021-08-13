@@ -30,7 +30,7 @@ Tim Robinson has crashed his hot dog shaped car into a clothing store. Tim tries
 
 If Ghost Tour is the show at peak stupidity, The Day That Robert Palins Murdered Me is the show at peak absurdity. Tim's band is demoing a gospel song for a producer, but the demo fails because gospel isn't popular anymore. So the bands lead singer starts improvising a new song, a soulful song about a cowboys murder. Tim's character, who doesn't know this new song at all, proceeds to ruin the performance by interjecting about "The Night that the Skeletons Came to Life".
 
-Some of the lyrics include *the bones are their money, the worms are their dollars* and *they'll pull your hair up but **not** out*. It makes 0 sense and the producer hates it. But like many of the show's best sketches, the absolute confidence Tim has when performing the train wreck makes the sketch top tier.
+Some of the lyrics include *"the bones are their money, the worms are their dollars"* and *"they'll pull your hair up but **not** out"*. It makes 0 sense and the producer hates it. But like many of the show's best sketches, the absolute confidence Tim has when performing the train wreck makes the sketch top tier.
 
 <br>
 
