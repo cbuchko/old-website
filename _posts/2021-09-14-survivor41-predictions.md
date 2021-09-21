@@ -7,7 +7,7 @@ section: survivor
 featured: false
 ---
 
-I originally created this blog so I could talk about Survivor, and with COVID interrupting those plans, my opportunity has finally come to gush about a brand new season. At the time of writing this, season 41 of Survivor is a week away. In this post I'll be making some hopefully correct predictions of who has a shot of being the sole survivor.
+I originally created this blog so I could talk about Survivor, and with COVID interrupting those plans, my opportunity has finally come to gush about a brand new season. At the time of writing this, season 41 of Survivor is a day away. In this post I'll be making some hopefully correct predictions of who has a shot of being the sole survivor.
 
 My first big takeaway after reviewing the cast is everyone seems to be a fan of the show. There isn't a single person who I can count out just on virtue of them being unaware. I think there will be a large amount of people playing way too hard, way too fast, and there will be a lot of people flaming out. 
 
@@ -27,7 +27,7 @@ The problem with this type of player is they look like a blueprint for a Survivo
 
 <img class="blog-image" src="/assets/images/Survivor_41/ego.jpg" alt="narcissism" />
 
-Sydney Segal and David Voce are two players that immediately stand out, not necessarily for good reasons. They both have egos larger than Probst's cargo short collection. In all of their interviews and pre-game press they relentlessly exude narcissism and even self proclaim themselves as blunt and arrogant people. *But* they both seem very self aware of this, and they both seem willing to subdue their egos to benefit their own game.
+Sydney Segal and David Voce are two players that immediately stand out, not necessarily for good reasons. They both have egos larger than Probst's cargo short collection. In all of their interviews and pre-game press they relentlessly exude narcissism and even proclaim themselves as blunt and arrogant people. *But* they both seem very self aware of this, and they both seem willing to subdue their egos to benefit their own game.
 
 The real question becomes how much are they gonna change their personalities while playing? Because if Sydney or Voce play as themselves, they won't win. However, I see attributes in both of them, such as their cutthroat attitudes, that give me confidence in their gameplay. 
 
@@ -41,34 +41,32 @@ It's refreshing to see a large amount of older players casted on this season. Th
 
 I have a really good feeling about Tiffany though. Her personality isn't overbearing, she's not threatening, and she's been getting really positive pre-game press. I get the impression the shows already hinting she will go far. And looking at her starting tribe, I don't see her being in any danger pre-merge. If Tiffany locks in a strong alliance I could see her riding it all the way to the end.
 
-Brad Reese is the other old timer that stands out. He's a humble cattle rancher from Wyoming and seems like he'll be an absolute work horse. He comes off as really well spoken, he's open minded and I think he'll do a good job of shaking off the old guy stigma. I think Brads success will be based on how well he gels with his initial tribe, it's hard to tell just based on interviews. I could see him being outcasted from his four young tribemates.
+Brad Reese is the other old timer that stands out. He's a humble cattle rancher from Wyoming and seems like he'll be an absolute work horse. He comes off as really well spoken, he's open minded and I think he'll do a good job of shaking off the old guy stigma. But Brad doesn't seem to have a strategic bone in his body. I can see Brad making it far, but I'm not sure if he will have any sort of resume at the end.
 
 ## Honorable Mentions
 
-Sara Wilson and JD Robinson both seem like savvy youngsters but I don't see them pulling out a win. Erika Casupanan also seems to have all the tools that a winner would need, I just didn't get a good feeling about her from the pre-game press.
+Sara Wilson and JD Robinson both seem like savvy youngsters but I don't see them pulling out a win. Erika Casupanan also seems to have all the tools that a winner would need but I think she'll get strong armed by more boisterous players.
 
 ## My Favourites
 
 <img class="blog-image" src="/assets/images/Survivor_41/favs.jpg" alt="winner-picks" />
 
-Shantel Smith and Deshawn Radden are my favourites to win this season. They both have all the qualities that I look for in a potential winner but are also low-key enough to not be too "obvious". Deshawn exudes charisma, he is an insanely likeable guy, but also seems calm and level-headed. I think Deshawn will have no trouble at all integrating into an alliance and if he gets a foot hold could make some strong strategic plays. My worry with Deshawn is that he may get over shadowed by some of the more exuberant personalities, and so I hope he can keep up once the merge hits.
+Shantel Smith and Deshawn Radden are my favourites to win this season. They both have all the qualities that I look for in a potential winner but are also low-key enough to not be too "obvious". Deshawn exudes charisma, he is an insanely likeable guy, but also seems calm and level-headed. In his interviews Deshawn talks about wanting to be a villain. He wants to stab people in the back and this attitude excites me. My worry with Deshawn is that he may get over shadowed by some of the more exuberant personalities, and so I hope he can keep up once the merge hits.
 
-I love Shantel, she has great pre-game content and seems to have a great mentality towards the game. My only worry is that she's a pastor and she might lack the self awareness to put that aside and focus on the game. If Shantel doesn't prove to be a psychopath, she is my pick to win.
-
-However, I think Deshawn is a safer choice. Deshawn seems more stable and less likely to self destruct than Shantel. What we see in pre-game press is a lot different than in-game personalities. And for someone like Sydney that could be a good thing and for Shantel that could be a bad thing.
+I love Shantel, she has great pre-game content and seems to be the full package. But I'm suspicious of how her personality might respond to the elements. I just have a weird feeling the Shantel we get in the game will be completely different than the one in the interviews. But if Shantel can keep it cool and calculated, I could easily see her winning. 
 
 If I had to rank the players in order of likeliness to win it would be:
 
 1. Deshawn Radden
-2. Shantel Smith
-3. Ricard Foye
-4. Evvie Jagoda
-5. Tiffany Seely
+2. Ricard Foye
+3. Shantel Smith
+4. Tiffany Seely
+5. Evvie Jagoda
 6. David Voce
-7. Erika Casupanan
-8. Sara Wilson
-9. Brad Reese
+7. JD Robinson
+8. Erika Casupanan
+9. Sara Wilson
 10. Sydney Segal
-11. JD Robinson
+11. Brad Reese
 <br>
 **...Everyone else**
