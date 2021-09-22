@@ -39,15 +39,11 @@ My prediction is that Voce will have an easier time at this than Sydney. He has 
 
 <img class="blog-image" src="/assets/images/Survivor_41/old.jpg" alt="age" />
 
-It's refreshing to see a large amount of older players casted on this season. There are five players older than 40. And out of the five I think Tiffany Seely and Brad Reese have the best chance to win. Old players historically don't do well on Survivor. It's an immediate stigma that is nearly impossible to conquer. Early on people want any reason to vote someone out and age seems to be a good default.
+It's refreshing to see a large amount of older players casted on this season. There are five players older than 40. And out of the five I think Tiffany Seely and Brad Reese have the best chance to win. Old players historically don't do well on Survivor. It's an immediate stigma that is nearly impossible to conquer. In the early stages people want any reason to vote someone out and age seems to be a good default.
 
 I have a really good feeling about Tiffany though. Her personality isn't overbearing, she's not threatening, and she's been getting really positive pre-game press. I get the impression the shows already hinting she will go far. And looking at her starting tribe, I don't see her being in any danger pre-merge. If Tiffany locks in a strong alliance I could see her riding it all the way to the end.
 
 Brad Reese is the other old timer that stands out. He's a humble cattle rancher from Wyoming and seems like he'll be an absolute work horse. He comes off as really well spoken, he's open minded and I think he'll do a good job of shaking off the old guy stigma. But Brad doesn't seem to have a strategic bone in his body. I can see Brad making it far, but I'm not sure if he will have any sort of resume at the end.
-
-## Honorable Mentions
-
-Sara Wilson and JD Robinson both seem like savvy youngsters but I don't see them pulling out a win. Erika Casupanan also seems to have all the tools that a winner would need but I think she'll get strong armed by more boisterous players.
 
 ## Other Favourites
 
@@ -56,6 +52,10 @@ Sara Wilson and JD Robinson both seem like savvy youngsters but I don't see them
 Shantel Smith and Deshawn Radden are two other people worth mentioning. They both have all the qualities that I look for in a potential winner but are also low-key enough to not be too "obvious". Deshawn exudes charisma, he is an insanely likeable guy, but also seems calm and level-headed. In his interviews Deshawn talks about wanting to be a villain. He wants to stab people in the back and this cutthroat attitude excites me. My worry with Deshawn is that he may get over shadowed by some of the more exuberant personalities and could flame out hard. If Deshawn finds himself as the figurehead of an alliance, he'll be in a good position to win.
 
 I love Shantel and I was very close to making her my winner pick. She seems to be the full package and has a serious drive to win. But some of her interview answers were off-putting to me and gave off a vibe that she lacks some self-awareness. This makes me suspicious of how her personality might respond to the elements. I just have a weird feeling that Shantel will be chaotic once she is in the game. But if she can keep it cool and calculated, I could easily see her winning. 
+
+## Honorable Mentions
+
+Sara Wilson and JD Robinson both seem like savvy youngsters but I don't see them pulling out a win. Erika Casupanan also seems to have all the tools that a winner would need but I think she'll get strong armed by more boisterous players.
 
 If I had to rank the players in order of likeliness to win it would be:
 
