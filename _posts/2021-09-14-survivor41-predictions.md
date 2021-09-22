@@ -21,7 +21,9 @@ I'm gonna go through some of my favourites to win, some of my dark horse picks a
 
 I think Ricard Foye and Evvie Jagoda are two people that are gonna get a lot of screen time. They have strong, bubbly personalities. They are social butterflies, and they both seem like natural narrators. They also both seem like strong winner candidates. They've gone through their fair share of struggles in their lives, and have an endearing way of reflecting that in their personalities.
 
-The problem with this type of player is they look like a blueprint for a Survivor winner and other players will notice this. So while Evvie and Ricard will both play strong games and will have no problems with forming alliances, its hard for me to bet on them to win. A part of me just assumes they will get sniped at some point. This cast of players is too savvy to not cut them. 
+For Ricard specifically, he seems too perfect. He's gonna go far, maybe even top five, but he will be this seasons fallen angel. A part of me just assumes he will get sniped at some point. Because everything about him screams winner, and the try-hards of this season will want him out for that reason alone.
+
+I feel a little better about Evvie. The target won't be as squarely on their back because I think Evvie is more flawed than Ricard. Their personality is a little abrasive and I can see them not getting along with everyone. Evvie's game will be about locking down an early alliance, the first few days on the beach are the most important for them. If Evvie makes it deep, they will have a strong case for winning.
 
 ## Is Narcissism a Virtue?
 
@@ -47,26 +49,26 @@ Brad Reese is the other old timer that stands out. He's a humble cattle rancher 
 
 Sara Wilson and JD Robinson both seem like savvy youngsters but I don't see them pulling out a win. Erika Casupanan also seems to have all the tools that a winner would need but I think she'll get strong armed by more boisterous players.
 
-## My Favourites
+## Other Favourites
 
 <img class="blog-image" src="/assets/images/Survivor_41/favs.jpg" alt="winner-picks" />
 
-Shantel Smith and Deshawn Radden are my favourites to win this season. They both have all the qualities that I look for in a potential winner but are also low-key enough to not be too "obvious". Deshawn exudes charisma, he is an insanely likeable guy, but also seems calm and level-headed. In his interviews Deshawn talks about wanting to be a villain. He wants to stab people in the back and this attitude excites me. My worry with Deshawn is that he may get over shadowed by some of the more exuberant personalities, and so I hope he can keep up once the merge hits.
+Shantel Smith and Deshawn Radden are two other people worth mentioning. They both have all the qualities that I look for in a potential winner but are also low-key enough to not be too "obvious". Deshawn exudes charisma, he is an insanely likeable guy, but also seems calm and level-headed. In his interviews Deshawn talks about wanting to be a villain. He wants to stab people in the back and this cutthroat attitude excites me. My worry with Deshawn is that he may get over shadowed by some of the more exuberant personalities and could flame out hard. If Deshawn finds himself as the figurehead of an alliance, he'll be in a good position to win.
 
-I love Shantel, she has great pre-game content and seems to be the full package. But I'm suspicious of how her personality might respond to the elements. I just have a weird feeling the Shantel we get in the game will be completely different than the one in the interviews. But if Shantel can keep it cool and calculated, I could easily see her winning. 
+I love Shantel and I was very close to making her my winner pick. She seems to be the full package and has a serious drive to win. But some of her interview answers were off-putting to me and gave off a vibe that she lacks some self-awareness. This makes me suspicious of how her personality might respond to the elements. I just have a weird feeling that Shantel will be chaotic once she is in the game. But if she can keep it cool and calculated, I could easily see her winning. 
 
 If I had to rank the players in order of likeliness to win it would be:
 
-1. Deshawn Radden
-2. Ricard Foye
+1. Evvie Jagoda
+2. Deshawn Radden
 3. Shantel Smith
 4. Tiffany Seely
-5. Evvie Jagoda
+5. Ricard Foye
 6. David Voce
 7. JD Robinson
-8. Erika Casupanan
-9. Sara Wilson
-10. Sydney Segal
+8. Sydney Segal
+9. Erika Casupanan
+10. Sara Wilson
 11. Brad Reese
 <br>
 **...Everyone else**
