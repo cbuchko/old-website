@@ -15,7 +15,7 @@ This would be a good time to talk about Tiffany's first episode. Tiffany was dis
 
 And I just want to apologize to Xander for underestimating him. I really like how he came off in the first episode. His approach to the prisoners dilemma was by far the best, and he is honestly a really cool guy. I'm still unsure if he can win, but his chances are much higher than 0%.
 
-Over on the green Ua tribe, Shan has taken clear control. She pulled off the "playing all sides" approach that we saw JD attempt, Shan had everyone in her pocket. She controlled the vote, taking the heat off JD and putting it on Sara. And now Shan has a tight bond with JD, JD has a tight bond with Brad, which gives them a tight threesome to work with. Shan is a frontrunner, anyone that gets their own soundtrack is obviously gonna make it far.
+Over on the green Ua tribe, Shan has taken clear control. She pulled off the "playing all sides" approach that we saw JD attempt. She controlled the vote, taking the heat off JD and putting it on Sara. And now Shan has a tight bond with JD, JD has a tight bond with Brad, which gives them a tight threesome to work with. Shan is a frontrunner, anyone that gets their own soundtrack is obviously gonna make it far.
 
 In contrast, I am much more sour on Ricard now. I'm not a fan of the way he speaks about people. And I don't want to read into it too much but he comes off as very condescending and entitled. He's playing like a snake, which isn't a bad thing, villains are always fun. But I don't see him lasting much longer in the game. He's on the outside of the Shan and JD duo. There will be a power struggle between Ricard and Shan and Shan will win.
 
